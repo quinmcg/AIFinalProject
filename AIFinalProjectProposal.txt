@@ -1,0 +1,17 @@
+
+Names:
+Otis Milliken (24) and Quinlan McGaugh (22)
+
+Title:
+Using Artificial Intelligence to Solve the World's Favorite Word Game: Wordle
+
+General Research Area:
+Artificial Intelligence and Machine Learning
+
+Summary of Literature:
+
+Specific Problem:
+
+Description of methods:
+
+Description of evaluation techniques:
